@@ -6,4 +6,4 @@
 
 Norpak POS Form (2016)
 
-[embed]/img/norpak_po_scheduled.pdf[/embed]
+[embed]https://github.com/hakunamoni/port_3_pdf_templates/blob/main/img/norpak_po_scheduled.pdf[/embed]
