@@ -6,4 +6,4 @@
 
 Norpak POS Form (2016)
 
-![demo](/img/norpak_po_scheduled.pdf)
+[embed]/img/norpak_po_scheduled.pdf[/embed]
